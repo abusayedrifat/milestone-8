@@ -1,0 +1,5 @@
+a.active{
+    color: rgb(139, 8, 139);
+    text-decoration: underline;
+    transition: .7s ease-in-out all;
+}

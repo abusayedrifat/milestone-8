@@ -1,0 +1,5 @@
+nav a.active{
+    color: rgb(170, 61, 61);
+    text-decoration: 2px underline rgb(156, 34, 34);
+    transition: 1s ease-in-out all;
+}
