@@ -1,0 +1,9 @@
+.grandFather div, .grandFather{
+  border: 3px solid tan;
+  padding: 15px;
+  border-radius: 10px;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+}
